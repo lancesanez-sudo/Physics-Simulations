@@ -1,3 +1,7 @@
+"""
+Simulation: Acceleration Cutoff
+This physics simulation calculates the velocity and displacement of an object that cuts off its acceleration at a given time
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
