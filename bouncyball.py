@@ -1,3 +1,7 @@
+"""
+Simulation: Thrown Bouncy Ball
+This physics simulation calculates the velocity, height, and energy types of a thrown bouncy ball with the effect of drag and gravity
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
