@@ -1,3 +1,7 @@
+"""
+Simulation: Phases Of Forces 2
+This simulation is an advanced version of the first Phases Of Force sim, now with friction and a longer integration duration
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
