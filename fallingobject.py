@@ -1,3 +1,7 @@
+"""
+Simulation: Falling Object
+This simulation calculates the height and velocity of a falling object from a given height under the influence of gravity
+"""
 
 import numpy as np
 
