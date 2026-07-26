@@ -1,3 +1,7 @@
+"""
+Simulation: Spring Simulator
+This simiulaton calculates the velocity and height of an object launched by a compressed spring while experiencing gravity and drag
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
