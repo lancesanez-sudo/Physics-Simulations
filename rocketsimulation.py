@@ -1,3 +1,7 @@
+"""
+Simulation: Rocket Simulation (gravity, drag, constant thrust, mass flow, 3 stages)
+This simulation tracks numerical data of a rocket with constant thrust, mass flow, three stages, and experiences gravity and drag
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
