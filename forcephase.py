@@ -1,3 +1,7 @@
+"""
+Simulation: Phases Of Forces
+This simulations calculates the velocity and displacement of an object experiencing different phases of motion within different intervals of time
+"""
 
 import numpy as np
 
