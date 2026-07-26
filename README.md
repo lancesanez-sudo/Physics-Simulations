@@ -5,23 +5,24 @@ This repository contains a collection of physics simulations written in Python b
 It reflect my journey as I learn physics, coding, and publishing my work professionally.
 
 ## List Of Physics Simulations
-accelerationcutoff.py - Object with acceleration cutoff
-bouncyball.py - Thrown bouncy ball with drag and gravity
-fallingobject.py - falling object with gravity
-forcephase.py - Object with different phases of forces
-forcephase2.py - Object with different types and phases of forces
-rocketsimulation.py - Rocket simulation with different variables
-rollercoaster.py - Falling roller coaster with incline
-springsim.py - Object launched with compressed spring
+- accelerationcutoff.py — Object with acceleration cutoff  
+- bouncyball.py — Thrown bouncy ball with drag and gravity  
+- fallingobject.py — Falling object with gravity  
+- forcephase.py — Object with different phases of forces  
+- forcephase2.py — Object with different types and phases of forces  
+- rocketsimulation.py — Rocket simulation with different variables  
+- rollercoaster.py — Falling roller coaster with incline  
+- springsim.py — Object launched with compressed spring  
 
 ## How To Run My Physics Simulations
-You can copy + paste the code into an accessible REPL, IDE, or Notebook.
+You can copy + paste the code into an accessible REPL, IDE, or Notebook.  
 Suggested coding/programming environments:
-https://jupyter.org - Jupyter
-https://code.visualstudio.com - VS Code
-https://www.jetbrains.com/pycharm/ - PyCharm
-https://replit.com - Replit
-https://colab.research.google.com - Google Colab
+
+- [Jupyter](https://jupyter.org)
+- [VS Code](https://code.visualstudio.com)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Replit](https://replit.com)
+- [Google Colab](https://colab.research.google.com)
 
 Or, to directly run the physics simulations, click the links below to open and run each simulation in Google Colab:
 
