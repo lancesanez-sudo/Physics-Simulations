@@ -4,6 +4,17 @@
 This repository contains a collection of physics simulations written in Python by me.
 It reflect my journey as I learn physics, coding, and publishing my work professionally.
 
+## Learning by Experimenting
+Each simulation includes variables (like gravity, mass, velocity, or drag) that you can change.  
+By modifying these values, you can see how the behavior of the system changes in real time.  
+
+For example:
+- Increase gravity to see objects fall faster.
+- Adjust drag to see how air resistance slows motion.
+- Change spring constant to explore different oscillation frequencies.
+
+This project is also meant to help others learn physics concepts by experimenting with code, not just reading formulas.
+
 ## List Of Physics Simulations
 - accelerationcutoff.py — Object with acceleration cutoff  
 - bouncyball.py — Thrown bouncy ball with drag and gravity  
@@ -49,3 +60,9 @@ Or, to directly run the physics simulations, click the links below to open and r
 
 - springsim.py  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lancesanez-sudo/Physics-Simulations/blob/main/springsim.py)
+
+## Future Work
+ - 2D Horizontal Motion Physics Simulation  
+ - 2D Projectile Motion Physics Simulation Of Thrown Ball With Gravity, Drag, And Bounce
+ - Angry Birds Phyics Simulation
+ - 2D Satellite Launch Vehicle Physics Simulation
