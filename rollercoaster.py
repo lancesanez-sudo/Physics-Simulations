@@ -1,3 +1,7 @@
+"""
+Simulation: Falling Roller Coaster With Incline
+This simulation calculates the velocity and height of a falling roller coaster that falls down a hill and climbs up an incline
+"""
 
 import numpy as np
 import matplotlib.pyplot as plt
