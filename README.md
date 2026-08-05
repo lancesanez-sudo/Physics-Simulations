@@ -36,7 +36,7 @@ Suggested coding/programming environments:
 - [Google Colab](https://colab.research.google.com)
 
 ## Future Work:
- - 2D Horizontal Motion Physics Simulation  
- - 2D Projectile Motion Physics Simulation of a Thrown Ball With Gravity, Drag, And Bounce
+ - 2D Horizontal Motion Physics Simulation  (COMPLETED)
+ - 2D Projectile Motion Physics Simulation of a Thrown Ball With Gravity, Drag, And Bounce  (COMPLETED)
  - 'Angry Birds' Physics Simulation
  - 2D Satellite Launch Vehicle Physics Simulation
