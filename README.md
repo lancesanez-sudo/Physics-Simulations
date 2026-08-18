@@ -36,12 +36,13 @@ Suggested coding/programming environments:
 - [Google Colab](https://colab.research.google.com)
 
 ## Future Work:
- - 2D Horizontal Motion Physics Simulation  (COMPLETED)
- - 2D Projectile Motion Physics Simulation of a Thrown Ball With Gravity, Drag, And Bounce  (COMPLETED)
  - 'Angry Birds' Physics Simulation  (COMPLETED)
  - 2D Satellite Launch Vehicle Physics Simulation
- - Inclined Plane Simulation
- - Newton's Law of Universal Gravitation Simulation
+ - Mario Kart
  - Weight Simulator
+ - Inclined Plane Simulation (No Initial Force, World Coords) (COMPLETED)
+ - Incline Plane Simulation (No Initial Force, Ramp Coords)
+ - Incline Plane Simulation (Initial Force, World Coords)
+ - Newton's Law of Universal Gravitation Simulation
  - Simple Circular Motion Simulation
  - Orbital Simulation
