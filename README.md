@@ -38,5 +38,10 @@ Suggested coding/programming environments:
 ## Future Work:
  - 2D Horizontal Motion Physics Simulation  (COMPLETED)
  - 2D Projectile Motion Physics Simulation of a Thrown Ball With Gravity, Drag, And Bounce  (COMPLETED)
- - 'Angry Birds' Physics Simulation
+ - 'Angry Birds' Physics Simulation  (COMPLETED)
  - 2D Satellite Launch Vehicle Physics Simulation
+ - Inclined Plane Simulation
+ - Newton's Law of Universal Gravitation Simulation
+ - Weight Simulator
+ - Simple Circular Motion Simulation
+ - Orbital Simulation
