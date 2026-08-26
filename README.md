@@ -16,11 +16,16 @@ For example:
 This project is also meant to help others learn physics concepts by experimenting with code, not just reading formulas.
 
 ## List Of Physics Simulations
-- accelerationcutoff.py — Object with acceleration cutoff  
+- accelerationcutoff.py - Object with acceleration cutoff
+- angrybirdsgame.py - Fun projectile motion video game
 - bouncyball.py — Thrown bouncy ball with drag and gravity  
 - fallingobject.py — Falling object with gravity  
 - forcephase.py — Object with different phases of forces  
-- forcephase2.py — Object with different types and phases of forces  
+- forcephase2.py — Object with different types and phases of forces
+- horizontalprojectilemotion.py - Projectile motion sim with horizontal launch
+- inclinedplane1.py - Moving object on an incline (using world coords)
+- inclinedplane2.py - Moving object on an incline (using ramp coords)
+- projectilemotionball.py - Projectile motion of a thrown bouncy ball
 - rocketsimulation.py — Rocket simulation with different variables  
 - rollercoaster.py — Falling roller coaster with incline  
 - springsim.py — Object launched with compressed spring  
@@ -41,8 +46,7 @@ Suggested coding/programming environments:
  - Mario Kart
  - Weight Simulator
  - Inclined Plane Simulation (No Initial Force, World Coords) (COMPLETED)
- - Incline Plane Simulation (No Initial Force, Ramp Coords)
- - Incline Plane Simulation (Initial Force, World Coords)
+ - Incline Plane Simulation (No Initial Force, Ramp Coords) (COMPLETED)
  - Newton's Law of Universal Gravitation Simulation
  - Simple Circular Motion Simulation
  - Orbital Simulation
