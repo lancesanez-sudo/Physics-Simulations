@@ -28,7 +28,8 @@ This project is also meant to help others learn physics concepts by experimentin
 - projectilemotionball.py - Projectile motion of a thrown bouncy ball
 - rocketsimulation.py — Rocket simulation with different variables  
 - rollercoaster.py — Falling roller coaster with incline  
-- springsim.py — Object launched with compressed spring  
+- springsim.py — Object launched with compressed spring
+- orbitalsimulation.py - Rocket simulation with different variables and satellite deployment 
 
 ## How To Run My Physics Simulations
 You can copy + paste the code into an accessible REPL, IDE, or Notebook.  
@@ -42,11 +43,6 @@ Suggested coding/programming environments:
 
 ## Future Work:
  - 'Angry Birds' Physics Simulation  (COMPLETED)
- - 2D Satellite Launch Vehicle Physics Simulation
  - Mario Kart
  - Weight Simulator
- - Inclined Plane Simulation (No Initial Force, World Coords) (COMPLETED)
- - Incline Plane Simulation (No Initial Force, Ramp Coords) (COMPLETED)
- - Newton's Law of Universal Gravitation Simulation
- - Simple Circular Motion Simulation
- - Orbital Simulation
+ - Orbital Simulation (COMPLETED)
