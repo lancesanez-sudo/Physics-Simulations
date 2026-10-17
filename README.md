@@ -29,7 +29,8 @@ This project is also meant to help others learn physics concepts by experimentin
 - rocketsimulation.py — Rocket simulation with different variables  
 - rollercoaster.py — Falling roller coaster with incline  
 - springsim.py — Object launched with compressed spring
-- orbitalsimulation.py - Rocket simulation with different variables and satellite deployment 
+- orbitalsimulation.py - Rocket simulation with different variables and satellite deployment
+- work-powersim1.py - Work and power tracked via an object's motion.
 
 ## How To Run My Physics Simulations
 You can copy + paste the code into an accessible REPL, IDE, or Notebook.  
@@ -44,5 +45,7 @@ Suggested coding/programming environments:
 ## Future Work:
  - 'Angry Birds' Physics Simulation  (COMPLETED)
  - Mario Kart
- - Weight Simulator
+ - Work-Power Simulation V1 (COMPLETED)
+ - Work-Power Simulation V2
+ - Work-Power Simulation V3
  - Orbital Simulation (COMPLETED)
