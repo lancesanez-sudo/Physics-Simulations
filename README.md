@@ -18,11 +18,12 @@ This project is also meant to help others learn physics concepts by experimentin
 ## List Of Physics Simulations
 - accelerationcutoff.py - Object with acceleration cutoff
 - angrybirdsgame.py - Fun projectile motion video game
-- bouncyball.py — Thrown bouncy ball with drag and gravity  
+- bouncyball.py — Thrown bouncy ball with drag and gravity
+- eggdrop.py — Egg drop on two different surfaces
 - fallingobject.py — Falling object with gravity  
 - forcephase.py — Object with different phases of forces  
 - forcephase2.py — Object with different types and phases of forces
-- goldenratio.py — Graphs the golden ratio by using the growth rule to graph the spiral after each quarter turn.
+- goldenratio.py — Graphs the golden ratio by using the growth rule to graph the spiral after each quarter turn
 - horizontalprojectilemotion.py - Projectile motion sim with horizontal launch
 - inclinedplane1.py - Moving object on an incline (using world coords)
 - inclinedplane2.py - Moving object on an incline (using ramp coords)
@@ -47,8 +48,6 @@ Suggested coding/programming environments:
 ## Future Work:
  - 'Angry Birds' Physics Simulation  (COMPLETED)
  - Mario Kart
- - Graphing the Golden Ratio (COMPLETED)
  - Orbital Simulation (COMPLETED)
- - Basic Momentum Simulation
- - Egg Drop Simulation
+ - Egg Drop Simulation (COMPLETED)
  - Car Crash Simulation
